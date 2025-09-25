@@ -1,16 +1,20 @@
-# Campus-Course-Records-Manager-CCRM-
 # Campus Course & Records Manager (CCRM) - Complete Java Project
-
 ## Complete Source Files Provided
-
 ### Core Domain Classes (edu.ccrm.domain)
 ✅ **CCRMApplication.java** - Main application class with entry point
+
 ✅ **Person.java** - Abstract base class demonstrating inheritance
+
 ✅ **Student.java** - Extends Person, demonstrates polymorphism
+
 ✅ **Course.java** - Demonstrates Builder design pattern
+
 ✅ **Grade.java** - Enum with constructors and methods
+
 ✅ **Semester.java** - Enum with business logic
+
 ✅ **Name.java** - Immutable value class
+
 
 ### Configuration (edu.ccrm.config)
 ✅ **AppConfig.java** - Singleton pattern with thread safety
